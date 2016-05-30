@@ -1,0 +1,7 @@
+[package]
+name = "source-rcon"
+version = "0.1.0"
+authors = ["Vibhav Pant <vibhavp@gmail.com>"]
+
+[dependencies]
+byteorder = "0.5.*"
